@@ -3,5 +3,5 @@ Model prediction for forest fire using linear regression - Ridge, Lasso and Elas
 To run flask application 
 
 ```
-python app.py
+python application.py
 ```
